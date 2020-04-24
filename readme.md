@@ -36,12 +36,3 @@
  |網頁爬蟲|python|beautifulsoup|
  |資料分析|python|pandas|
 
-
-有關動物的Youtube頻道
->|名稱|類型|連結|
->|---|---|---|
->|老人與狗|狗|[連結](https://www.youtube.com/channel/UCZqi-Vq105BcjdttAY3cJVQ)|
->|豆漿|貓|[連結](https://www.youtube.com/channel/UCiXuTOccGliVKpcL1qQWMPg)|
->|華農兄弟|竹鼠|[連結](https://www.youtube.com/channel/UCjEGRKDfUOel8Hp9Iumw5NQ)|
-
-##  
