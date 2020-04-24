@@ -1,50 +1,47 @@
-# My project
+# This is a tutorial of using github
 
 ## What we learned
 - [x] 貪食蛇
-- [x] 寫網頁
+- [x] 網頁設計
 - [x] 網頁爬蟲
-- [x] github
+- [x] 資料分析
+- [x] GitHub
 
 
+## 貪食蛇
+![snake](pic/snake.png)
 
+### how to use
+> cd snake_game  
+> python snake.py  
 
+## 網頁設計
+![web](pic/webpage.png)
+
+### how to launch
+> 1. 找到 web_design  資料夾
+> 2. 把index.html 用網頁打開
+## 網頁爬蟲
+練習:[pttnba版](web.spider/nba.csv)
+## 資料分析
+練習:[武漢肺炎資料](pandas/new_covid19.csv)
 
 ---
-## github指令
-- config (設定git bash)
-    - git config --global user.name myusername   
-    - git config --global user.email myemail  
-    - git config --global github.user myusername  
-- clone from others (使用別人的作品的時候)
-    - git clone {url}
-- update repo (當你的repo被別人更新的時候)
-    - git pull
-- **upload to yours**
-    1. git status (檢查狀態)
-    2. git add * （把檔案加到repo中，*代表全部）
-    3. git commit -m 'message' (確定變更)
-    4. git push (更改至原本repo)
-    5. checkout your github
-
----
-## Markdown語法
-連結
->this is a [link](https://www.google.com/) to *google*.  
->this is [covid19](covid19.csv) file.
-
-可愛的狗狗
->![dog](pic/corgi.jpeg)  
-> [影片](https://youtu.be/yw-s6OSd51I)  
-
-可愛的貓貓
-> ![cat](pic/cat.jpeg)  
-> [here](https://youtu.be/n2OEHlkCXio)  
-
-表格
+## what we use
+|專案名稱|程式語言|
 >|A|B|C|
 >|---|---|---|
->|aa|bb|cc|
->|zz|qq|bb|
+>|貪食蛇|python|pygmae|
+>|網頁|html|css|javescript|
+ |網頁爬蟲|python|beautifulsoup|
+ |資料分析|python|pandas|
 
-<!-- 這是一行註解-->
+
+有關動物的Youtube頻道
+>|名稱|類型|連結|
+>|---|---|---|
+>|老人與狗|狗|[連結](https://www.youtube.com/channel/UCZqi-Vq105BcjdttAY3cJVQ)|
+>|豆漿|貓|[連結](https://www.youtube.com/channel/UCiXuTOccGliVKpcL1qQWMPg)|
+>|華農兄弟|竹鼠|[連結](https://www.youtube.com/channel/UCjEGRKDfUOel8Hp9Iumw5NQ)|
+
+##  
